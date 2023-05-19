@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: HEALTH_PASS_KEEPER
+  datasource:
+    url: jdbc:mysql://kiptsmpo.mysql.polardb.rds.aliyuncs.com:3306/healthpasskeeper
+    username: visitor
+    password: Visitor123
+
+server:
+  port: 8000
+
